@@ -3,7 +3,7 @@
 ##
 
 - Estou cursando ciência da computação na Universidade Federal de Sergipe(UFS) - 3° período
-- Atualmente desenvolvendo e aprimorando minhas habilidades em front e backend
+- Atualmente trabalho na SergipeTec, fornecendo meus serviços como desenvolvedor front-end
 ##
 <div align="center">
   <a href="https://github.com/DeanVini/pomodoroVUE">
