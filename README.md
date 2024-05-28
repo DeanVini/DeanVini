@@ -2,7 +2,7 @@
 
 ##
 
-- Estou cursando ciência da computação na Universidade Federal de Sergipe(UFS) - 5° período
+- Estou cursando ciência da computação na Universidade Federal de Sergipe(UFS)
 - Atualmente trabalho na SergipeTec, fornecendo meus serviços como desenvolvedor front-end
 ##
 <div align="center">
