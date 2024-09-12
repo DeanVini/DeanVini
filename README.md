@@ -7,28 +7,37 @@
 ##
 <div align="center">
   <a href="https://github.com/DeanVini/pomodoroVUE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&layout=compact&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://github.com/DeanVini/SistemaAluguel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=SistemaAluguel&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=SistemaAluguel&langs_count=7&theme=gruvbox"/>
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=grafos&layout=compact&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=grafos&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
   </a>
   <a  href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=projeto_Focus&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=projeto_Focus&langs_count=7&theme=gruvbox"/>
   </a>
 </div>
 
-
+##
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=gruvbox&count_private=true&langs_count=8"><br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&theme=gruvbox&margin-w=9&hide_border=true&count_private=true"><br/>
+</p>
 ##
 
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dean-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg">
+  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg">
+  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Dean-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Dean-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Dean-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
