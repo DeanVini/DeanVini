@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=gruvbox&count_private=true&langs_count=8"><br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&theme=gruvbox&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
+
 ##
 
 </div>
