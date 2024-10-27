@@ -19,7 +19,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=grafos&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
   </a>
   <a  href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=projeto_Focus&langs_count=7&theme=gruvbox"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=donation-api&langs_count=7&theme=gruvbox"/>
   </a>
 </div>
 
