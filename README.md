@@ -9,18 +9,10 @@
   <a href="https://github.com/DeanVini/pomodoroVUE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://github.com/DeanVini/SistemaAluguel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=SistemaAluguel&langs_count=7&theme=gruvbox"/>
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=grafos&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
-  </a>
-  <a  href="https://github.com/anuraghazra/github-readme-stats">
+  <a  href="https://github.com/DeanVini/donation-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=donation-api&langs_count=7&theme=gruvbox"/>
   </a>
+</div>
 </div>
 
 ##
