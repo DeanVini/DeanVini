@@ -7,18 +7,18 @@
 ##
 <div align="center">
   <a href="https://github.com/DeanVini/pomodoroVUE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=shadow_red"/> &nbsp;&nbsp;&nbsp;
   </a>
   <a  href="https://github.com/DeanVini/donation-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=donation-api&langs_count=7&theme=gruvbox"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=donation-api&langs_count=7&theme=shadow_red"/>
   </a>
 </div>
 </div>
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=gruvbox&count_private=true&langs_count=8"><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&theme=gruvbox&margin-w=9&hide_border=true&count_private=true"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=shadow_red&count_private=true&langs_count=8"><br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&theme=shadow_red&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
 
 ##
