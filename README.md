@@ -18,7 +18,7 @@
 ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=shadow_red&count_private=true&langs_count=8"><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&theme=shadow_red&margin-w=9&hide_border=true&count_private=true"><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&margin-h=15&margin-w=15&theme=onestar&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
 
 ##
