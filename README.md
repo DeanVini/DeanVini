@@ -7,7 +7,7 @@
 ##
 <div align="center">
   <a href="https://github.com/DeanVini/pomodoroVUE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=shadow_red"/> &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=pomodoroVUE&langs_count=7&theme=shadow_red"/>
   </a>
   <a  href="https://github.com/DeanVini/donation-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanVini&repo=donation-api&langs_count=7&theme=shadow_red"/>
