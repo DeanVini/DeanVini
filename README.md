@@ -27,7 +27,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,nest,spring,vuejs,rabbitmq,redis)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,nest,spring,rabbitmq,redis,vuejs,tailwind)](https://skillicons.dev)
 </div>
 
 ##
