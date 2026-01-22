@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ### Olá, sou o Dean 
 
 ##
@@ -18,25 +20,14 @@
 ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanVini&theme=shadow_red&count_private=true&langs_count=8"><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DeanVini&margin-h=15&margin-w=15&theme=onestar&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
 
 ##
 
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg">
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg">
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Dean-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Dean-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Dean-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Dean-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  <img align="center" alt="Dean-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dean-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,nest,spring,vuejs,rabbitmq,redis)](https://skillicons.dev)
 </div>
 
 ##
