@@ -39,7 +39,7 @@ Main areas:
 
 **Domain** · Banking Core · KYC · Fraud Prevention
 
-**Applied AI** · RAG · VitePress · LLM (Llama 3.2)
+**Applied AI** · RAG  · LLM (Llama 3.2)
 
 ---
 
